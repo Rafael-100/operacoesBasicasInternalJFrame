@@ -1,0 +1,5 @@
+{logo.png,
+somar1.png,
+subtrair.png,
+multiplicar.png,
+dividir.png}: Ícones feitos por Freepik de www.flaticon.com
